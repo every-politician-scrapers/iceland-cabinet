@@ -1457,6 +1457,53 @@
           },
           {
             "Name": {
+              "text": "ICGV Ægir (I)",
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Coastal defence ship"
+            },
+            "From": {
+              "text": "1929",
+              "number": 1929
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Bought new in 1929."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Þór (II)"
+            },
+            "Type": {
+              "text": "Patrol vessel"
+            },
+            "From": {
+              "text": "1930",
+              "number": 1930
+            },
+            "To": {
+              "text": "1939",
+              "number": 1939
+            },
+            "Notes": {
+              "text": "Built in Stettin, Germany, in 1922 as Senator Schäfer. Arrived in Iceland in 1930 and served with the Coast Guard until 1939. Used as a transport ship until sold to England in 1946. Stranded in Scotland in 1950.",
+              "formatting": {
+                "italic": [
+                  "Senator Schäfer"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
               "text": "ICGV Gautur",
               "formatting": {
                 "italic": [
@@ -1489,37 +1536,6 @@
                   "Óðinn"
                 ]
               }
-            }
-          },
-          {
-            "Name": {
-              "text": "(III)"
-            },
-            "Type": {
-              "text": "Offshore patrol vessel"
-            },
-            "From": {
-              "text": "1960",
-              "number": 1960
-            },
-            "To": {
-              "text": "2006",
-              "number": 2006
-            },
-            "Notes": {
-              "text": "An offshore Patrol Vessel named after Óðinn the all-seeing father of the gods. Decommissioned in 2006 and turned into a museum ship.",
-              "links": [
-                {
-                  "text": "Óðinn",
-                  "type": "internal",
-                  "page": "Óðinn"
-                },
-                {
-                  "text": "museum ship",
-                  "type": "internal",
-                  "page": "museum ship"
-                }
-              ]
             }
           },
           {
@@ -1657,6 +1673,279 @@
           },
           {
             "Name": {
+              "text": "ICGV Sæbjörg",
+              "formatting": {
+                "italic": [
+                  "Sæbjörg"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol and rescue ship"
+            },
+            "From": {
+              "text": ""
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "Built in 1947 to 1948. Owned by the National Life-saving Association of Iceland but operated by the ICG. Decommissioned in the mid 1960s."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV María Júlía",
+              "links": [
+                {
+                  "text": "ICGV ''María Júlía''",
+                  "type": "internal",
+                  "page": "María Júlía"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "María Júlía"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol, research and rescue vessel"
+            },
+            "From": {
+              "text": "1950",
+              "number": 1950
+            },
+            "To": {
+              "text": "1969",
+              "number": 1969
+            },
+            "Notes": {
+              "text": "Named after one of those who financed her construction. Joint ownership by the ICG and the National Life-saving Association of Iceland. Operated by the ICG. Decommissioned in the late 1960s and sold in 1969."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Þór (III)",
+              "links": [
+                {
+                  "text": "ICGV ''Þór'' (III)",
+                  "type": "internal",
+                  "page": "ICGV Þór (III)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "From": {
+              "text": "1951",
+              "number": 1951
+            },
+            "To": {
+              "text": "1982",
+              "number": 1982
+            },
+            "Notes": {
+              "text": "Built in 1951 for the Coast Guard. The third coast guard ship to bear the name, she was the flagship of the fleet and served in all three Cod Wars conflicts between Iceland and the United Kingdom. Sold in 1982."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Albert",
+              "formatting": {
+                "italic": [
+                  "Albert"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Patrol and rescue vessel"
+            },
+            "From": {
+              "text": "1956",
+              "number": 1956
+            },
+            "To": {
+              "text": "1978",
+              "number": 1978
+            },
+            "Notes": {
+              "text": "Built in 1956 and jointly owned by the ICG and the National Life-saving Association of Iceland, now ICE-SAR. Operated by the ICG. Decommissioned and sold in 1978.",
+              "links": [
+                {
+                  "text": "now ICE-SAR",
+                  "type": "internal",
+                  "page": "Icelandic Association for Search and Rescue"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "(III)"
+            },
+            "Type": {
+              "text": "Offshore patrol vessel"
+            },
+            "From": {
+              "text": "1960",
+              "number": 1960
+            },
+            "To": {
+              "text": "2006",
+              "number": 2006
+            },
+            "Notes": {
+              "text": "An offshore Patrol Vessel named after Óðinn the all-seeing father of the gods. Decommissioned in 2006 and turned into a museum ship.",
+              "links": [
+                {
+                  "text": "Óðinn",
+                  "type": "internal",
+                  "page": "Óðinn"
+                },
+                {
+                  "text": "museum ship",
+                  "type": "internal",
+                  "page": "museum ship"
+                }
+              ]
+            }
+          },
+          {
+            "Name": {
+              "text": "(II)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1968",
+              "number": 1968
+            },
+            "To": {
+              "text": "2020",
+              "number": 2020
+            },
+            "Notes": {
+              "text": "Danish-built Ægir-class offshore patrol vessel named after Ægir, the king of the sea. It was the flagship of the ICG during the last two Cod Wars. It was decommissioned in 2020 and put up for sale.",
+              "links": [
+                {
+                  "text": "Ægir",
+                  "type": "internal",
+                  "page": "Ægir"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Árvakur",
+              "formatting": {
+                "italic": [
+                  "Árvakur"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Lighthouse tender and patrol ship"
+            },
+            "From": {
+              "text": "1969",
+              "number": 1969
+            },
+            "To": {
+              "text": ""
+            },
+            "Notes": {
+              "text": "A lighthouse tender and patrol ship built in Holland in 1962 for the Department of Lighthouses and arrived in 1963. Transferred to the Coast Guard in 1969. Was put for sale in 1988."
+            }
+          },
+          {
+            "Name": {
+              "text": "ICGV Týr",
+              "formatting": {
+                "italic": [
+                  "Týr"
+                ]
+              }
+            },
+            "Type": {
+              "text": "Armed whaler",
+              "links": [
+                {
+                  "text": "whaler",
+                  "type": "internal",
+                  "page": "whaler"
+                }
+              ]
+            },
+            "From": {
+              "text": "1972",
+              "number": 1972
+            },
+            "To": {
+              "text": "1973",
+              "number": 1973
+            },
+            "Notes": {
+              "text": "Armed whaler (Hvalur 9) borrowed during the second Cod War It was nicknamed Hval-Týr by the Icelanders and Moby Dick by the British.",
+              "formatting": {
+                "italic": [
+                  "Hvalur 9",
+                  "Hval-Týr",
+                  "Moby Dick"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
+              "text": "(II)"
+            },
+            "Type": {
+              "text": ""
+            },
+            "From": {
+              "text": "1974",
+              "number": 1974
+            },
+            "To": {
+              "text": "2021",
+              "number": 2021
+            },
+            "Notes": {
+              "text": "Danish-built Ægir-class offshore patrol vessel named after Týr, the god of combat and heroism. It was decommissioned in 2021 and put up for sale.",
+              "links": [
+                {
+                  "text": "Danish",
+                  "type": "internal",
+                  "page": "Denmark"
+                },
+                {
+                  "type": "internal",
+                  "page": "Týr"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ægir"
+                ]
+              }
+            }
+          },
+          {
+            "Name": {
               "text": "ICGV Baldur (II)",
               "links": [
                 {
@@ -1710,231 +1999,6 @@
           },
           {
             "Name": {
-              "text": "ICGV Týr",
-              "formatting": {
-                "italic": [
-                  "Týr"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Armed whaler",
-              "links": [
-                {
-                  "text": "whaler",
-                  "type": "internal",
-                  "page": "whaler"
-                }
-              ]
-            },
-            "From": {
-              "text": ""
-            },
-            "To": {
-              "text": ""
-            },
-            "Notes": {
-              "text": "Armed whaler (Hvalur 9) borrowed during the second Cod War It was nicknamed Hval-Týr by the Icelanders and Moby Dick by the British.",
-              "formatting": {
-                "italic": [
-                  "Hvalur 9",
-                  "Hval-Týr",
-                  "Moby Dick"
-                ]
-              }
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Þór (II)",
-              "formatting": {
-                "italic": [
-                  "Þór"
-                ]
-              }
-            },
-            "Type": {
-              "text": ""
-            },
-            "From": {
-              "text": ""
-            },
-            "To": {
-              "text": "1946",
-              "number": 1946
-            },
-            "Notes": {
-              "text": "Bought after Þór (I) stranded. It was sold in 1946.",
-              "formatting": {
-                "italic": [
-                  "Þór"
-                ]
-              }
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Þór (III)",
-              "links": [
-                {
-                  "text": "ICGV ''Þór'' (III)",
-                  "type": "internal",
-                  "page": "ICGV Þór (III)"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Þór"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Offshore patrol vessel"
-            },
-            "From": {
-              "text": "1951",
-              "number": 1951
-            },
-            "To": {
-              "text": "1982",
-              "number": 1982
-            },
-            "Notes": {
-              "text": "Built in 1951 for the Coast Guard. The third coast guard ship to bear the name, she was the flagship of the fleet and served in all three Cod Wars conflicts between Iceland and the United Kingdom. Sold in 1982."
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Ægir (I)",
-              "formatting": {
-                "italic": [
-                  "Ægir"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Coastal defence ship"
-            },
-            "From": {
-              "text": "1929",
-              "number": 1929
-            },
-            "To": {
-              "text": ""
-            },
-            "Notes": {
-              "text": "Bought new in 1929."
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Albert",
-              "formatting": {
-                "italic": [
-                  "Albert"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Patrol and rescue vessel"
-            },
-            "From": {
-              "text": "1956",
-              "number": 1956
-            },
-            "To": {
-              "text": "1978",
-              "number": 1978
-            },
-            "Notes": {
-              "text": "Built in 1956 and jointly owned by the ICG and the National Life-saving Association of Iceland, now ICE-SAR. Operated by the ICG. Decommissioned and sold in 1978.",
-              "links": [
-                {
-                  "text": "now ICE-SAR",
-                  "type": "internal",
-                  "page": "Icelandic Association for Search and Rescue"
-                }
-              ]
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Árvakur",
-              "formatting": {
-                "italic": [
-                  "Árvakur"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Lighthouse tender and patrol ship"
-            },
-            "From": {
-              "text": "1969",
-              "number": 1969
-            },
-            "To": {
-              "text": ""
-            },
-            "Notes": {
-              "text": "A lighthouse tender and patrol ship built in Holland in 1962 for the Department of Lighthouses and arrived in 1963. Transferred to the Coast Guard in 1969. Was put for sale in 1988."
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV María Júlía",
-              "links": [
-                {
-                  "text": "ICGV ''María Júlía''",
-                  "type": "internal",
-                  "page": "María Júlía"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "María Júlía"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Patrol, research and rescue vessel"
-            },
-            "From": {
-              "text": "1950",
-              "number": 1950
-            },
-            "To": {
-              "text": "1969",
-              "number": 1969
-            },
-            "Notes": {
-              "text": "Named after one of those who financed her construction. Joint ownership by the ICG and the National Life-saving Association of Iceland. Operated by the ICG. Decommissioned in the late 1960s and sold in 1969."
-            }
-          },
-          {
-            "Name": {
-              "text": "ICGV Sæbjörg",
-              "formatting": {
-                "italic": [
-                  "Sæbjörg"
-                ]
-              }
-            },
-            "Type": {
-              "text": "Patrol and rescue ship"
-            },
-            "From": {
-              "text": ""
-            },
-            "To": {
-              "text": ""
-            },
-            "Notes": {
-              "text": "Owned by the National Life-saving Association of Iceland but operated by the ICG. Decommissioned in the mid 1960s."
-            }
-          },
-          {
-            "Name": {
               "text": "ICGV Ver",
               "formatting": {
                 "italic": [
@@ -1953,86 +2017,26 @@
               ]
             },
             "From": {
-              "text": ""
+              "text": "1976",
+              "number": 1976
             },
             "To": {
-              "text": ""
+              "text": "1976",
+              "number": 1976
             },
             "Notes": {
-              "text": "Operated by the ICG in the last Cod War in 1975–1976.",
+              "text": "Built in 1974 in Poland for Krossvík hf. in Akranes. Operated by the ICG in the last Cod War in 1975–1976.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Akranes"
+                },
                 {
                   "text": "Cod War in 1975–1976",
                   "type": "internal",
                   "page": "Cod Wars"
                 }
               ]
-            }
-          },
-          {
-            "Name": {
-              "text": "(II)"
-            },
-            "Type": {
-              "text": ""
-            },
-            "From": {
-              "text": "1968",
-              "number": 1968
-            },
-            "To": {
-              "text": "2020",
-              "number": 2020
-            },
-            "Notes": {
-              "text": "Danish-built Ægir-class offshore patrol vessel named after Ægir, the king of the sea. It was the flagship of the ICG during the last two Cod Wars. It was decommissioned in 2020 and put up for sale.",
-              "links": [
-                {
-                  "text": "Ægir",
-                  "type": "internal",
-                  "page": "Ægir"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Ægir"
-                ]
-              }
-            }
-          },
-          {
-            "Name": {
-              "text": "(II)"
-            },
-            "Type": {
-              "text": ""
-            },
-            "From": {
-              "text": "1974",
-              "number": 1974
-            },
-            "To": {
-              "text": "2021",
-              "number": 2021
-            },
-            "Notes": {
-              "text": "Danish-built Ægir-class offshore patrol vessel named after Týr, the god of combat and heroism. It was decommissioned in 2021 and put up for sale.",
-              "links": [
-                {
-                  "text": "Danish",
-                  "type": "internal",
-                  "page": "Denmark"
-                },
-                {
-                  "type": "internal",
-                  "page": "Týr"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Ægir"
-                ]
-              }
             }
           }
         ]
@@ -2099,6 +2103,18 @@
           "type": "news"
         },
         {
+          "title": "Ægir",
+          "url": "https://timarit.is/page/996002",
+          "access-date": "11 June 2022",
+          "work": "Tíminn",
+          "date": "20 July 1929",
+          "page": "162",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Nýi varðbáturinn Óðinn",
           "url": "https://timarit.is/page/1235379",
           "access-date": "11 June 2022",
@@ -2135,74 +2151,6 @@
           "type": "news"
         },
         {
-          "author1": "Hallur Már",
-          "title": "Óðinn sigldi á ný",
-          "url": "https://www.mbl.is/200milur/frettir/2020/05/11/odinn_sigldi_a_ny/",
-          "access-date": "11 June 2022",
-          "work": "Morgunblaðið",
-          "date": "11 May 2020",
-          "language": "is",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Týr skal hann heita",
-          "url": "https://timarit.is/page/1435966",
-          "access-date": "17 September 2020",
-          "work": "Morgunblaðið",
-          "date": "12 October 1972",
-          "page": "32",
-          "language": "is",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Stríðshetjan í helgan stein",
-          "url": "https://timarit.is/page/1924004",
-          "access-date": "17 September 2020",
-          "work": "Morgunblaðið",
-          "date": "3 January 1999",
-          "pages": "12B",
-          "language": "is",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Ægir",
-          "url": "https://timarit.is/page/996002",
-          "access-date": "11 June 2022",
-          "work": "Tíminn",
-          "date": "20 July 1929",
-          "page": "162",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Fyrrverandi björgunar- og varðskipið Albert fannst í Seattle",
-          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2432",
-          "access-date": "11 June 2022",
-          "work": "lhg.is",
-          "publisher": "Icelandic Coast Guard",
-          "date": "9 January 2012",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Vitaskipið Árvakur auglýst til sölu: Ekki ákveðið að selja skipið segir forstöðumaður vita hjá Vitamálastofnun",
-          "url": "https://www.mbl.is/greinasafn/grein/9661/",
-          "access-date": "11 June 2022",
-          "work": "Morgunblaðið",
-          "date": "10 January 1988",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "title": "Reyna að koma Maríu Júlíu í slopp á Húsavík",
           "url": "https://timarit.is/page/7288441",
           "access-date": "11 June 2022",
@@ -2227,6 +2175,28 @@
           "type": "news"
         },
         {
+          "title": "Fyrrverandi björgunar- og varðskipið Albert fannst í Seattle",
+          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2432",
+          "access-date": "11 June 2022",
+          "work": "lhg.is",
+          "publisher": "Icelandic Coast Guard",
+          "date": "9 January 2012",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Hallur Már",
+          "title": "Óðinn sigldi á ný",
+          "url": "https://www.mbl.is/200milur/frettir/2020/05/11/odinn_sigldi_a_ny/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "11 May 2020",
+          "language": "is",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "author1": "Ævar Örn Jósepsson",
           "title": "Varðskipið Ægir auglýst til sölu",
           "url": "https://www.ruv.is/frett/2020/11/03/vardskipid-aegir-auglyst-til-solu",
@@ -2234,6 +2204,40 @@
           "work": "RÚV",
           "date": "3 November 2020",
           "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Vitaskipið Árvakur auglýst til sölu: Ekki ákveðið að selja skipið segir forstöðumaður vita hjá Vitamálastofnun",
+          "url": "https://www.mbl.is/greinasafn/grein/9661/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "10 January 1988",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Týr skal hann heita",
+          "url": "https://timarit.is/page/1435966",
+          "access-date": "17 September 2020",
+          "work": "Morgunblaðið",
+          "date": "12 October 1972",
+          "page": "32",
+          "language": "is",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Stríðshetjan í helgan stein",
+          "url": "https://timarit.is/page/1924004",
+          "access-date": "17 September 2020",
+          "work": "Morgunblaðið",
+          "date": "3 January 1999",
+          "pages": "12B",
+          "language": "is",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -2270,6 +2274,17 @@
           "type": "news"
         },
         {
+          "title": "Ver til gæzlustarfa í dag",
+          "url": "https://timarit.is/page/3870522",
+          "access-date": "13 June 2022",
+          "work": "Tíminn",
+          "date": "6 April 1976",
+          "page": "2",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Þór kominn til Vestmannaeyja",
           "url": "https://www.mbl.is/frettir/innlent/2011/10/26/thor_kominn_til_vestmannaeyja/",
           "access-date": "23 March 2021",
@@ -2292,13 +2307,13 @@
           "type": "news"
         },
         {
-          "author1": "Ágúst Ingi Jónsson",
-          "title": "Beittur Baldur fer í brotajárn",
-          "url": "https://www.mbl.is/200milur/frettir/2020/09/08/beittur_baldur_fer_i_brotajarn/",
-          "access-date": "11 June 2022",
-          "work": "Morgunblaðið",
-          "date": "8 September 2020",
-          "language": "is",
+          "title": "Björgunarstarf og landhelgisgæzla. 35 ára þróun.",
+          "url": "https://timarit.is/page/5597421",
+          "access-date": "13 June 2022",
+          "work": "Fylkir",
+          "date": "23 December 1955",
+          "pages": "4-7",
+          "language": "Icelandic",
           "template": "citation",
           "type": "news"
         },
@@ -2315,12 +2330,15 @@
           "type": "news"
         },
         {
-          "date": "June 2022",
-          "template": "citation needed"
-        },
-        {
-          "date": "June 2022",
-          "template": "citation needed"
+          "author1": "Ágúst Ingi Jónsson",
+          "title": "Beittur Baldur fer í brotajárn",
+          "url": "https://www.mbl.is/200milur/frettir/2020/09/08/beittur_baldur_fer_i_brotajarn/",
+          "access-date": "11 June 2022",
+          "work": "Morgunblaðið",
+          "date": "8 September 2020",
+          "language": "is",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3033,6 +3051,41 @@
           },
           {
             "Callsign": {
+              "text": "TF-SYN (II)"
+            },
+            "Name": {
+              "text": "Sýn",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sýn"
+                }
+              ]
+            },
+            "Type": {
+              "text": "Aérospatiale AS-332L1 Super Puma",
+              "links": [
+                {
+                  "text": "Aérospatiale AS-332L1 Super Puma",
+                  "type": "internal",
+                  "page": "Aerospatiale Super Puma"
+                }
+              ]
+            },
+            "From": {
+              "text": "2012",
+              "number": 2012
+            },
+            "To": {
+              "text": "2019",
+              "number": 2019
+            },
+            "Notes": {
+              "text": "First leased for 12-months and arrived in February 2012. Replaced in 2019 by TF-GRÓ (IV)."
+            }
+          },
+          {
+            "Callsign": {
               "text": "TF-EIR (III)"
             },
             "Name": {
@@ -3366,6 +3419,18 @@
           "type": "news"
         },
         {
+          "author1": "Hólmfríður Gísladóttir",
+          "title": "Gert við leiguþyrluna í Færeyjum",
+          "url": "https://timarit.is/page/6010696",
+          "access-date": "13 June 2022",
+          "work": "Morgunblaðið",
+          "date": "3 February 2012",
+          "page": "15",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Loftför - TF-EIR",
           "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/nr/1033",
           "publisher": "Icelandic Coast Guard",
@@ -3373,6 +3438,17 @@
           "language": "Icelandic",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "author1": "Erla María Markúsdóttir",
+          "title": "TF-EIR komin til landsins",
+          "url": "https://www.mbl.is/frettir/innlent/2019/03/16/tf_eir_komin_til_landsins/",
+          "access-date": "13 June 2022",
+          "work": "Morgunblaðið",
+          "date": "16 March 2019",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         },
         {
           "title": "Loftför - TF-GRO",
@@ -3485,6 +3561,16 @@
           "work": "Morgunblaðið",
           "date": "24 June 1995",
           "page": "4",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF-GRÓ komin til landsins",
+          "url": "https://www.mbl.is/frettir/innlent/2019/07/06/tf_gro_komin_til_landsins/",
+          "access-date": "13 June 2022",
+          "work": "Morgunblaðið",
+          "date": "6 July 2019",
           "language": "Icelandic",
           "template": "citation",
           "type": "news"

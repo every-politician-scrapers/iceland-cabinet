@@ -2378,7 +2378,22 @@
               "number": 1966
             },
             "Notes": {
-              "text": "First aircraft owned by the ICG. Not in use after 1963. Damaged beyond repair after flipping over during a major storm while parked and sold for scrap in 1966."
+              "text": "Built in 1945 and bought by the Icelandic Civil Aviation Administration from the U.S. Navy in September 1954 after it had been damaged close to Þórshöfn in Langanes earlier in the year. Bought by the ICG on 10 December 1955 and used until 1963. Damaged beyond repair after flipping over during a major storm while parked and sold for scrap in 1966.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Icelandic Civil Aviation Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "U.S. Navy"
+                },
+                {
+                  "text": "Þórshöfn",
+                  "type": "internal",
+                  "page": "Þórshöfn"
+                }
+              ]
             }
           },
           {
@@ -2412,7 +2427,7 @@
               "number": 1971
             },
             "Notes": {
-              "text": "Bought used from a Portuguese airline in 1962."
+              "text": "Bought used from a Portuguese airline in 1962 to replace TF-RÁN (II)."
             }
           },
           {
@@ -3046,7 +3061,18 @@
               "text": "Present"
             },
             "Notes": {
-              "text": "Ordered in May 2007 and arrived in July 2009. Used for maritime surveillance and replaced TF-SYN (I)."
+              "text": "Ordered in May 2007 and arrived in July 2009. Used for maritime surveillance and replaced TF-SYN (I). Due to budget cuts following the 2008 Icelandic financial collapse, TF-SIF was frequently leased to Frontex to fly border control missions.",
+              "links": [
+                {
+                  "text": "2008 Icelandic financial collapse",
+                  "type": "internal",
+                  "page": "2008–2011 Icelandic financial crisis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Frontex"
+                }
+              ]
             }
           },
           {
@@ -3114,13 +3140,7 @@
               "text": "Present"
             },
             "Notes": {
-              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in March 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Knut Axel Ugland Holding"
-                }
-              ]
+              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in March 2019 and replaced TF-GNÁ."
             }
           },
           {
@@ -3153,13 +3173,7 @@
               "text": "Present"
             },
             "Notes": {
-              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in July 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Knut Axel Ugland Holding"
-                }
-              ]
+              "text": "Arrived in July 2019 on long-term lease from Knut Axel Ugland Holding of Norway and replaced TF-SÝN. During the November 2020 Coast Guards mechanics strike crisis, TF-GRO was the only operational rescue helicopter in the country."
             }
           },
           {
@@ -3192,13 +3206,7 @@
               "text": "Present"
             },
             "Notes": {
-              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in May 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Knut Axel Ugland Holding"
-                }
-              ]
+              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in May 2021."
             }
           }
         ]
@@ -3211,6 +3219,20 @@
           "work": "Morgunblaðið",
           "date": "14 May 1995",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Jónas Guðmundsson",
+          "title": "Þegar hún birtist undan svörtu éli...",
+          "url": "https://timarit.is/page/4430241",
+          "access-date": "15 June 2022",
+          "work": "Vikan",
+          "date": "2 October 1958",
+          "pages": "6-7",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3222,6 +3244,19 @@
           "date": "16 August 1962",
           "pages": "16, 5",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Fjögurra hreyfla SIF tekur senn við gæzlunni af Rán",
+          "url": "https://timarit.is/page/2796774",
+          "access-date": "15 June 2022",
+          "work": "Þjóðviljinn",
+          "date": "16 August 1962",
+          "page": "3",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3394,6 +3429,7 @@
           "date": "3 June 2007",
           "page": "2",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3405,6 +3441,43 @@
           "date": "4 July 2007",
           "page": "8",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Smíði gæsluvélarinnar gengið ævintýralega vel",
+          "url": "https://www.visir.is/g/2009843017833/smidi-gaesluvelarinnar-gengid-aevintyralega-vel",
+          "access-date": "15 June 2022",
+          "work": "Vísir.is",
+          "date": "3 April 2009",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nýr verndarengill landhelginnar kominn heim",
+          "url": "https://timarit.is/page/5256180",
+          "access-date": "15 June 2022",
+          "work": "Morgunblaðið",
+          "date": "2 July 2009",
+          "page": "1",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Guðni Einarsson",
+          "author2": "Halldór Armand Ásgeirsson",
+          "title": "Þessi vél skiptir sköpum",
+          "url": "https://timarit.is/page/5256185",
+          "access-date": "15 June 2022",
+          "work": "Morgunblaðið",
+          "date": "2 July 2009",
+          "page": "6",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3415,6 +3488,32 @@
           "work": "Morgunblaðið",
           "date": "1 July 2009",
           "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Andri Karl",
+          "title": "Fundu ekki kaupanda",
+          "url": "https://timarit.is/page/5264423",
+          "access-date": "15 June 2022",
+          "work": "Morgunblaðið",
+          "date": "10 October 2009",
+          "page": "6",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sigtryggur Sigtryggsson",
+          "title": "TF-SIF erlendis í nærri þúsund daga",
+          "url": "https://timarit.is/page/6964563",
+          "access-date": "15 June 2022",
+          "work": "Morgunblaðið",
+          "date": "13 January 2018",
+          "page": "28",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3460,6 +3559,28 @@
           "type": "web"
         },
         {
+          "author1": "Garðar Örn Úlfarsson",
+          "title": "Björgunarþyrluleysi er nú sagt óumflýjanlegt",
+          "url": "https://timarit.is/page/7312181",
+          "access-date": "15 June 2022",
+          "work": "Fréttablaðið",
+          "date": "25 November 2020",
+          "page": "6",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Eina útkallshæfa þyrlan ekkert kölluð út um helgina",
+          "url": "https://www.mbl.is/frettir/innlent/2020/11/09/eina_utkallshaefa_thyrlan_ekkert_kollud_ut_um_helgi/",
+          "access-date": "15 June 2022",
+          "work": "Morgunblaðið",
+          "date": "9 November 2020",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "TF-GNA kemur í þjónustu Landhelgisgæslunnar um áramót",
           "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/tf-gna-kemur-i-thjonustu-landhelgisgaeslunnar-um-aramot",
           "access-date": "5 May 2021",
@@ -3476,6 +3597,7 @@
           "work": "Æskan",
           "date": "1 February 1972",
           "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -3571,6 +3693,17 @@
           "access-date": "13 June 2022",
           "work": "Morgunblaðið",
           "date": "6 July 2019",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Jóhann K. Jóhannsson",
+          "title": "TF-EIR og TF-GRO koma í þjónustu Landhelgisgæslunnar",
+          "url": "https://www.visir.is/g/2018181219745/tf-eir-og-tf-gro-koma-i-thjonustu-landhelgisgaeslunnar",
+          "access-date": "15 June 2022",
+          "work": "Vísir.is",
+          "date": "11 December 2018",
           "language": "Icelandic",
           "template": "citation",
           "type": "news"

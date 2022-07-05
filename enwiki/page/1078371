@@ -642,7 +642,7 @@
       "references": [
         {
           "url": "https://www.lhg.is/english/jrcc-iceland/nr/1829",
-          "title": "RCC Iceland- Rescue Centre for mariners and aircrafts &#91;sic&#93;",
+          "title": "RCC Iceland- Rescue Centre for mariners and {{sic|aircrafts|nolink=yes}}",
           "access-date": "2021-11-26",
           "website": "Icelandic Coast Guard",
           "template": "citation",
@@ -681,7 +681,7 @@
         {
           "sentences": [
             {
-              "text": ", the Icelandic Coast Guard fleet consists of three OPVs, one coastal hydrographic and patrol vessel and an independent fast rigid-hulled inflatable boat (RHIB), as well as numerous smaller boats assigned to the larger units.",
+              "text": ", the Icelandic Coast Guard fleet consists of two OPVs, one coastal hydrographic and patrol vessel and an independent fast rigid-hulled inflatable boat (RHIB), as well as numerous smaller boats assigned to the larger units.",
               "links": [
                 {
                   "text": "coastal hydrographic and patrol vessel",
@@ -848,7 +848,7 @@
       "templates": [
         {
           "list": [
-            "2021"
+            "2022"
           ],
           "template": "as of"
         },
@@ -963,7 +963,24 @@
         {
           "sentences": [
             {
-              "text": "The Coast Guard's Aeronautical Division was founded on 10 December 1955 when a Consolidated PBY-6A Catalina flying boat was acquired.",
+              "text": "After World War II, the Coast Guard occasionally leased civilian aircraft for short term monitoring of shipping and fishing in the territorial waters, first in 1948 when a Grumman Goose was leased from Loftleiðir.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World War II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Grumman Goose"
+                },
+                {
+                  "type": "internal",
+                  "page": "Loftleiðir"
+                }
+              ]
+            },
+            {
+              "text": "On 10 December 1955, the Coast Guard aquired its first aircraft when a Consolidated PBY-6A Catalina flying boat was acquired from the Civil Aviation Administration.",
               "links": [
                 {
                   "text": "Consolidated PBY-6A Catalina",
@@ -991,11 +1008,125 @@
               ]
             },
             {
-              "text": "It was registered as TF-RAN and nicknamed Rán.",
+              "text": "It was named Rán and registered as TF-RAN.",
+              "formatting": {
+                "italic": [
+                  "Rán"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1972, the ICG, along with the National Life-saving Association of Iceland, bought its first specialized search and rescue helicopter, a Sikorsky S-62 that was named Gná, from the United States Coast Guard.",
+              "links": [
+                {
+                  "text": "search and rescue",
+                  "type": "internal",
+                  "page": "search and rescue"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sikorsky S-62"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States Coast Guard"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Gná"
+                ]
+              }
+            },
+            {
+              "text": "Three years later, Gná crashed in Skálafell, with no injuries, after a shaft in the tail propeller broke.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Rán"
+                  "page": "Skálafell"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Gná"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It took five years for another SAR helicopter to arrive but in 1980, the Coast Guard bought a new Sikorsky S-76 which was given the name Rán.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sikorsky S-76"
+                },
+                {
+                  "text": "Rán",
+                  "type": "internal",
+                  "page": "TF-RÁN (II)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Rán"
+                ]
+              }
+            },
+            {
+              "text": "The helicopter performed admirably, including in March 1983, when Rán, along with a French Aérospatiale SA 330 Puma, one of two temporarily deployed in the country, rescued 11 people from Hafrún ÍS-400 after it ran aground at Stigahlíð in the Westfjords.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aérospatiale SA 330 Puma"
+                },
+                {
+                  "type": "internal",
+                  "page": "Westfjords"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Rán",
+                  "Hafrún ÍS-400"
+                ]
+              }
+            },
+            {
+              "text": "However, inn November 1983, Rán crashed in Jökulfirðir in the Westfjords of Iceland during a training mission, killing its four man crew, in what remains the deadliest accident in the ICG history.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Westfjords"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Rán"
+                ]
+              }
+            },
+            {
+              "text": "The loss of Rán and some of the Coast Guards most experienced flight members nearly caused the shutdown of its helicopter program.",
+              "formatting": {
+                "italic": [
+                  "Rán"
+                ]
+              }
+            },
+            {
+              "text": "After some deliberation, the decision was made in 1984 to continue the program and buy a new Aérospatiale SA 365N Dauphin II and rent another until the new one would arrive.",
+              "links": [
+                {
+                  "text": "Aérospatiale SA 365N Dauphin II",
+                  "type": "internal",
+                  "page": "Aerospatiale SA 365 Dauphin"
                 }
               ]
             }
@@ -1004,32 +1135,86 @@
         {
           "sentences": [
             {
-              "text": "Until 2019, the Icelandic Coast Guard operated three Aerospatiale AS-332L1 Super Puma helicopters, which were registered as TF-LIF, TF-SYN and TF-GNA.",
+              "text": "In 1985, the new Sif arrived and with it, several changes where made to the helicopter program, including to training, expanding crew rosters, addition of helicopter doctors and shift plans to expand its availability.",
               "links": [
                 {
-                  "text": "Aerospatiale AS-332L1 Super Puma",
+                  "text": "Sif",
                   "type": "internal",
-                  "page": "Eurocopter Super Puma"
-                },
+                  "page": "TF-SIF (III)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Sif"
+                ]
+              }
+            },
+            {
+              "text": "Sif went on to become one of the ICG most successful aircraft to date.",
+              "formatting": {
+                "italic": [
+                  "Sif"
+                ]
+              }
+            },
+            {
+              "text": "During its 22-year career it took part in several high profile rescue operations around Iceland and is credited to have been involved in the rescue of around 250 lives.",
+              "links": [
                 {
-                  "text": "TF-LIF",
                   "type": "internal",
-                  "page": "TF-LÍF"
+                  "page": "Iceland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1995, the ICG received a second specialised SAR helicopter when it bought a Aérospatiale AS-332L1 Super Puma which was given the name Líf.",
+              "links": [
+                {
+                  "text": "Aérospatiale AS-332L1 Super Puma",
+                  "type": "internal",
+                  "page": "Aerospatiale Super Puma"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Líf"
+                ]
+              }
+            },
+            {
+              "text": "The new helicopter continued on the success of Sif and gained national fame when it rescued 39 sailors in three separate incidents during a six-day period in March 1997.",
+              "formatting": {
+                "italic": [
+                  "Sif"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a response to the withdrawal of the Iceland Defense Force in 2006, the Coast Guard expanded its helicopters to four in 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iceland Defense Force"
                 }
               ]
             },
             {
-              "text": "As a response to the withdrawal of the Iceland Defense Force in 2006, the Coast Guard operated four helicopters, including a leased Aérospatiale SA-365N-1 Dauphin 2 TF-EIR, but this number was reduced to the three Super Pumas as of 2015.",
-              "links": [
-                {
-                  "text": "Aérospatiale SA-365N-1 Dauphin 2",
-                  "type": "internal",
-                  "page": "Eurocopter Dauphin"
-                }
-              ]
-            },
-            {
-              "text": "In 2021 the Icelandic Coast Guard have received three Airbus Helicopters H225 helicopters, leased from Norwegian company Knut Axel Ugland Holding AS, to replace the three AS332L1 Super Pumas."
+              "text": "That number was later reduced to three and as of 2022, it operates three Airbus Helicopters H225 helicopters named Gná, Gróa and Eir.",
+              "formatting": {
+                "italic": [
+                  "Gná",
+                  "Gróa",
+                  "Eir"
+                ]
+              }
             }
           ]
         },
@@ -1059,49 +1244,145 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Unlike the fleet, aircraft of the Icelandic Coast Guard have standard Icelandic civilian registers, as the Althing (parliament) has never agreed on laws for military or government aircraft.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Althing"
-                }
-              ]
-            },
-            {
-              "text": "Over the time since the division was formed the regulations for standard civilian aircraft have become more restrictive."
-            },
-            {
-              "text": "As a result, the Coast Guard can no longer operate military aircraft like it did in the past."
-            },
-            {
-              "text": "Nevertheless, Icelandic Coast Guard helicopters are outfitted with the latest generation U.S. night vision equipment, reserved for U.S. armed forces and the armies of their allies and thus the only civilian registered aircraft in the world, so equipped.",
-              "links": [
-                {
-                  "text": "night vision equipment",
-                  "type": "internal",
-                  "page": "night vision equipment"
-                },
-                {
-                  "type": "internal",
-                  "page": "U.S. armed forces"
-                }
-              ]
-            }
-          ]
         }
       ],
       "references": [
         {
+          "title": "Sex togbátar teknir í landhelgi",
+          "url": "https://timarit.is/page/1267142",
+          "access-date": "26 June 2022",
+          "work": "Morgunblaðið",
+          "date": "2 April 1948",
+          "page": "12",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Togveiðiskip óttast gæzluflugvélina og sækja minna í landhelgi en áður",
+          "url": "https://timarit.is/page/1029274",
+          "access-date": "26 June 2022",
+          "work": "Tíminn",
+          "date": "26 March 1957",
+          "pages": "1–2",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Gunnar, Nikulás, Alfreð",
+          "url": "https://timarit.is/page/3720347",
+          "access-date": "3 July 2022",
+          "work": "Tíminn",
+          "date": "26 August 1972",
+          "pages": "1, 15",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nýr liðsstyrkur gæzlunnar gæti líka komið Bretum í góðar þarfir",
+          "url": "https://timarit.is/page/3202966",
+          "access-date": "3 July 2022",
+          "work": "Alþýðublaðið",
+          "date": "29 August 1972",
+          "pages": "6–7",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Þakka reynslu flugmannsins og snarræði að við erum hér til frásagnar",
+          "url": "https://timarit.is/page/1467290",
+          "access-date": "3 July 2022",
+          "work": "Morgunblaðið",
+          "date": "4 October 1975",
+          "pages": "24, 3",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sikorsky entist í 3 ár",
+          "url": "https://timarit.is/page/3485972",
+          "access-date": "5 May 2021",
+          "work": "Vísir",
+          "date": "19 November 1980",
+          "page": "15",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tvær franskar þyrlur lánaðar til Íslands í einn mánuð",
+          "url": "https://timarit.is/page/1570069",
+          "access-date": "13 June 2022",
+          "work": "Morgunblaðið",
+          "date": "20 February 1983",
+          "page": "20",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Ragnar Axelsson",
+          "title": "Hvað er glóðarauga á milli vina",
+          "url": "https://timarit.is/page/5297535",
+          "access-date": "13 June 2022",
+          "work": "SunnudagsMogginn",
+          "publisher": "Morgunblaðið",
+          "date": "14 February 2010",
+          "pages": "28–29",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Gunnar Þorsteinsson",
+          "title": "Sif - Kona þrumuguðsins",
+          "url": "https://timarit.is/page/1609896",
+          "access-date": "20 June 2022",
+          "work": "Morgunblaðið",
+          "date": "14 April 1985",
+          "pages": "18B-19B",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "TF-SIF Aerospatiale SA.365N Dauphin 2",
+          "url": "https://www.flugsafn.is/is/safngripir/01-aerospatiale-sa365",
+          "website": "flugsafn.is",
+          "publisher": "Icelandic Aviation Museum",
+          "access-date": "21 March 2021",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Frækileg björgun á reginhafi",
+          "url": "https://timarit.is/page/6785534",
+          "access-date": "22 March 2021",
+          "work": "Morgunblaðið",
+          "date": "29 September 2016",
+          "page": "34",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://icelandmonitor.mbl.is/news/news/2021/05/06/icelandic_coast_guard_receives_third_helicopter/",
           "work": "Iceland Monitor",
-          "date": "2021-05-06",
+          "date": "6 May 2021",
           "title": "Icelandic Coast Guard Receives Third Helicopter",
-          "first": "Vala",
-          "last": "Hafstað",
+          "author": "Vala Hafstað",
           "template": "citation",
           "type": "web"
         },
@@ -1115,8 +1396,64 @@
           "type": "web"
         },
         {
-          "date": "November 2010",
-          "template": "citation needed"
+          "author1": "Guðjón Arngrímsson",
+          "author2": "Helgi Hallvarðsson",
+          "author3": "Stefán Melsted",
+          "author4": "María Sólbergsdóttir",
+          "title": "Landhelgisgæsla Íslands 1926-1996 : svipmyndir úr 70 ára sögu",
+          "date": "1996",
+          "publisher": "Landhelgisgæsla Íslands",
+          "location": "Reykjavík",
+          "isbn": "9979602775",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "Catalina",
+          "url": "http://timarit.is/view_page_init.jsp?issId=304742&pageId=4627266",
+          "accessdate": "5 May 2021",
+          "work": "Æskan",
+          "date": "1 February 1972",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Minnast áhafnar þyrlunnar TF-RAN sem fórst fyrir þrjátíu árum",
+          "url": "http://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2670",
+          "accessdate": "23 March 2021",
+          "work": "Landhelgisgæsla Íslands",
+          "date": "8 November 2013",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sæmundur Guðvinsson",
+          "title": "Minnistæðustu flugferðirnar eru þær sem aldrei voru farnar",
+          "url": "https://timarit.is/page/4252713",
+          "access-date": "24 June 2022",
+          "work": "Sjómannablaðið Víkingur",
+          "date": "1 June 1997",
+          "pages": "26–33",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Sigtryggur Ari Jóhannsson",
+          "title": "Fyllist lotningu við hvininn frá þyrlunni",
+          "url": "https://timarit.is/page/5910781",
+          "access-date": "21 March 2021",
+          "work": "Dagblaðið Vísir",
+          "date": "20 July 2007",
+          "pages": "1, 11–17",
+          "language": "Icelandic",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1140,31 +1477,50 @@
       ]
     },
     {
-      "title": "Currently operated vessels",
+      "title": "Vessels",
       "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg",
+          "caption": "The Chilean built patrol boat",
+          "links": []
+        }
+      ],
       "tables": [
         [
           {
-            "Ship name": {
+            "Vessel": {
               "text": ""
             },
-            "Photo": {
-              "text": "200x200px]]"
-            },
-            "Type": {
-              "text": "Offshore patrol vessel"
-            },
-            "Class": {
-              "text": ""
-            },
-            "Note": {
-              "text": "South Korean-built offshore patrol vessel commissioned in late 2021. Named after the goddess Freyja.",
+            "Origin": {
+              "text": "South Korea",
               "links": [
                 {
-                  "text": "South Korean",
                   "type": "internal",
                   "page": "South Korea"
-                },
+                }
+              ]
+            },
+            "Type": {
+              "text": "patrol boat",
+              "links": [
+                {
+                  "text": "patrol boat",
+                  "type": "internal",
+                  "page": "patrol boat"
+                }
+              ]
+            },
+            "Notes": {
+              "text": "named after the goddess Freyja",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Freyja"
@@ -1173,108 +1529,81 @@
             }
           },
           {
-            "Ship name": {
+            "Vessel": {
               "text": ""
             },
-            "Photo": {
-              "text": "2 Arrival of Thor - Icelandic Coast Guard 2011-10-27 Reykjavik.jpg"
-            },
-            "Type": {
-              "text": "Offshore patrol vessel"
-            },
-            "Class": {
-              "text": "UT 512L Type",
+            "Origin": {
+              "text": "Chile",
               "links": [
                 {
                   "type": "internal",
-                  "page": "UT 512L Type"
+                  "page": "Chile"
                 }
               ]
             },
-            "Note": {
-              "text": "Chilean-built UT 512L Type (enlarged UT 512 Type) offshore patrol vessel commissioned in late 2011 and the flagship of the service. Named after Thor, the god of thunder, lightning and troll slaying.",
+            "Type": {
+              "text": "patrol boat"
+            },
+            "Notes": {
+              "text": "named after the Norse mythology god Thor",
               "links": [
                 {
-                  "text": "Chilean",
                   "type": "internal",
-                  "page": "Chile"
-                },
-                {
-                  "type": "internal",
-                  "page": "UT 512L Type"
+                  "page": "Norse mythology"
                 },
                 {
                   "type": "internal",
                   "page": "Thor"
-                },
-                {
-                  "text": "troll",
-                  "type": "internal",
-                  "page": "troll"
                 }
               ]
             }
           },
           {
-            "Ship name": {
-              "text": "ICGV Baldur",
+            "Vessel": {
+              "text": "ICGV Baldur"
+            },
+            "Origin": {
+              "text": "Iceland",
               "links": [
                 {
-                  "text": "ICGV ''Baldur''",
                   "type": "internal",
-                  "page": "ICGV Baldur (III)"
+                  "page": "Iceland"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "Baldur"
-                ]
-              }
-            },
-            "Photo": {
-              "text": "ICGV Baldur with ICGV Ægir in background.jpg"
+              ]
             },
             "Type": {
-              "text": "Hydrographic survey and patrol vessel"
-            },
-            "Class": {
-              "text": ""
-            },
-            "Note": {
-              "text": "Icelandic-built Baldur-class hydrographic survey and patrol vessel named after Baldur, god of beauty and more.",
+              "text": "patrol boat",
               "links": [
                 {
+                  "text": "patrol boat",
                   "type": "internal",
-                  "page": "Baldur"
+                  "page": "patrol boat"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "Baldur"
-                ]
-              }
+              ]
+            },
+            "Notes": {
+              "text": "performs hydrographic survey duties",
+              "links": [
+                {
+                  "text": "hydrographic survey",
+                  "type": "internal",
+                  "page": "hydrographic survey"
+                }
+              ]
             }
           },
           {
-            "Ship name": {
-              "text": "ICGV Óðinn",
-              "formatting": {
-                "italic": [
-                  "Óðinn"
-                ]
-              }
+            "Vessel": {
+              "text": "ICGV Óðinn"
             },
-            "Photo": {
-              "text": ""
+            "Origin": {
+              "text": "Iceland"
             },
             "Type": {
-              "text": "Special operation vessel"
+              "text": "special operation"
             },
-            "Class": {
-              "text": ""
-            },
-            "Note": {
-              "text": "Icelandic-built special operation vessel named after Óðinn, the all-seeing father of the gods. It is attached to the Coast Guard's bomb disposal and special operations unit.",
+            "Notes": {
+              "text": "named after the Norse mythology god Óðinn",
               "links": [
                 {
                   "text": "Óðinn",
@@ -1289,6 +1618,12 @@
       "templates": [
         {
           "list": [
+            "Þór"
+          ],
+          "template": "icgv"
+        },
+        {
+          "list": [
             "Freyja"
           ],
           "template": "icgv"
@@ -1298,49 +1633,16 @@
             "Þór"
           ],
           "template": "icgv"
-        },
-        {
-          "list": [
-            "Baldur",
-            "research vessel",
-            "4"
-          ],
-          "template": "sclass"
         }
       ],
       "references": [
         {
           "title": "Freyja er mjög öflugt varðskip",
           "url": "https://www.mbl.is/200milur/frettir/2021/09/23/freyja_er_mjog_oflugt_vardskip/",
-          "access-date": "11 June 2022",
+          "access-date": "29 October 2021",
           "work": "Morgunblaðið",
           "date": "23 September 2021",
           "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Steinþór Guðbjartsson",
-          "title": "Brotið blað í sögu þjóðar",
-          "url": "https://timarit.is/page/5383190",
-          "access-date": "11 June 2022",
-          "work": "Morgunblaðið",
-          "date": "27 October 2011",
-          "pages": "40, 16–17",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Sæmundur Guðvinsson",
-          "title": "Bylting í sjómælingum og kortagerð",
-          "url": "https://timarit.is/page/4250862",
-          "access-date": "9 June 2022",
-          "work": "Sjómannablaðið Víkingur",
-          "date": "1 October 1991",
-          "pages": "22–24",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
           "template": "citation",
           "type": "news"
         },
@@ -1353,30 +1655,6 @@
           "language": "Icelandic",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "title": "Nýr „byltingarkenndur“ Óðinn í flota gæslunnar",
-          "url": "https://timarit.is/page/6647487",
-          "access-date": "11 June 2022",
-          "work": "Morgunblaðið",
-          "date": "5 August 2015",
-          "page": "9",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Byltingarkenndur bátur fyrir gæsluna",
-          "url": "https://timarit.is/page/6308464",
-          "access-date": "11 June 2022",
-          "work": "Fréttablaðið",
-          "date": "5 August 2015",
-          "page": "8",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -1551,12 +1829,12 @@
               "text": "Fast patrol boat"
             },
             "From": {
-              "text": "1946",
-              "number": 1946
+              "text": "1945",
+              "number": 1945
             },
             "To": {
-              "text": "1947",
-              "number": 1947
+              "text": "1946",
+              "number": 1946
             },
             "Notes": {
               "text": "A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
@@ -1586,12 +1864,12 @@
               "text": "Fast patrol boat"
             },
             "From": {
-              "text": "1946",
-              "number": 1946
+              "text": "1945",
+              "number": 1945
             },
             "To": {
-              "text": "1947",
-              "number": 1947
+              "text": "1946",
+              "number": 1946
             },
             "Notes": {
               "text": "Named after Njörðr the god of wind, fertile land along the seacoast, as well as seamanship, sailing and fishing. A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
@@ -1640,12 +1918,12 @@
               "text": "Fast patrol boat"
             },
             "From": {
-              "text": "1946",
-              "number": 1946
+              "text": "1945",
+              "number": 1945
             },
             "To": {
-              "text": "1947",
-              "number": 1947
+              "text": "1946",
+              "number": 1946
             },
             "Notes": {
               "text": "Named after Bragi the god of poetry. A fast patrol boat originally built for the Turkish Navy in 1943 but expropriated by the United Kingdom. Bought early in 1946 but used for less than a year and returned because of bad characteristics in rough seas.",
@@ -2307,6 +2585,18 @@
           "type": "news"
         },
         {
+          "title": "Hvorki nothæfir til björgunarstarfa nje landhelgisgæslu",
+          "url": "https://timarit.is/page/1258607",
+          "access-date": "30 June 2022",
+          "work": "Morgunblaðið",
+          "date": "12 March 1946",
+          "pages": "5, 13",
+          "language": "Icelandic",
+          "via": "Tímarit.is}} {{open access|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Björgunarstarf og landhelgisgæzla. 35 ára þróun.",
           "url": "https://timarit.is/page/5597421",
           "access-date": "13 June 2022",
@@ -2343,1112 +2633,121 @@
       ]
     },
     {
-      "title": "Aircraft history",
+      "title": "Aircraft",
       "depth": 1,
       "tables": [
         [
           {
-            "Callsign": {
-              "text": "TF-RAN (I)"
-            },
-            "Name": {
-              "text": "Rán",
+            "Aircraft": {
+              "text": "Bombardier Dash 8",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Rán"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Consolidated PBY-6A Catalina",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Consolidated PBY-6A Catalina"
-                }
-              ]
-            },
-            "From": {
-              "text": "1955",
-              "number": 1955
-            },
-            "To": {
-              "text": "1966",
-              "number": 1966
-            },
-            "Notes": {
-              "text": "Built in 1945 and bought by the Icelandic Civil Aviation Administration from the U.S. Navy in September 1954 after it had been damaged close to Þórshöfn in Langanes earlier in the year. Bought by the ICG on 10 December 1955 and used until 1963. Damaged beyond repair after flipping over during a major storm while parked and sold for scrap in 1966.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Icelandic Civil Aviation Administration"
-                },
-                {
-                  "type": "internal",
-                  "page": "U.S. Navy"
-                },
-                {
-                  "text": "Þórshöfn",
-                  "type": "internal",
-                  "page": "Þórshöfn"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SIF (I)"
-            },
-            "Name": {
-              "text": "Sif",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sif"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Douglas C-54 Skymaster",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Douglas C-54 Skymaster"
-                }
-              ]
-            },
-            "From": {
-              "text": "1962",
-              "number": 1962
-            },
-            "To": {
-              "text": "1971",
-              "number": 1971
-            },
-            "Notes": {
-              "text": "Bought used from a Portuguese airline in 1962 to replace TF-RÁN (II)."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-EIR (I)"
-            },
-            "Name": {
-              "text": "Eir",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eir"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Bell 47J",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bell 47J"
-                }
-              ]
-            },
-            "From": {
-              "text": "1965",
-              "number": 1965
-            },
-            "To": {
-              "text": "1971",
-              "number": 1971
-            },
-            "Notes": {
-              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in October 1971."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SYR (I)"
-            },
-            "Name": {
-              "text": "Sýr",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sýr"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Fokker F27 Friendship 200",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fokker F27 Friendship 200"
-                }
-              ]
-            },
-            "From": {
-              "text": "1972",
-              "number": 1972
-            },
-            "To": {
-              "text": "1980",
-              "number": 1980
-            },
-            "Notes": {
-              "text": "Bought used from All Nippon Airways and replaced TF-SIF (I). Used for search and maritime surveillance. Saw extensive use during the second and third Cod Wars. Sold to Flugleiðir in December 1980.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "All Nippon Airways"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cod Wars"
-                },
-                {
-                  "type": "internal",
-                  "page": "Flugleiðir"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GNA (I)"
-            },
-            "Name": {
-              "text": "Gná",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gná"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Sikorsky S-62",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sikorsky S-62"
-                }
-              ]
-            },
-            "From": {
-              "text": "1972",
-              "number": 1972
-            },
-            "To": {
-              "text": "1975",
-              "number": 1975
-            },
-            "Notes": {
-              "text": "Joint ownership by the ICG and the National Life-saving Association of Iceland. Crashed in Skálafell in 1975 after a shaft in the tail propeller broke."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-HUG"
-            },
-            "Name": {
-              "text": "Huginn",
-              "links": [
-                {
-                  "text": "Huginn",
-                  "type": "internal",
-                  "page": "Huginn and Muninn"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Bell 47G",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bell 47G"
-                }
-              ]
-            },
-            "From": {
-              "text": "1973",
-              "number": 1973
-            },
-            "To": {
-              "text": "1980",
-              "number": 1980
-            },
-            "Notes": {
-              "text": "Bought used from the Icelandic Defence Force. Suffered from frequent breakdowns. Damaged after a hard landing on ICGV Ægir in 1975. Out of service by 1978 and sold around 1980.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Icelandic Defence Force"
-                },
-                {
-                  "type": "internal",
-                  "page": "ICGV Ægir"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-MUN"
-            },
-            "Name": {
-              "text": "Muninn",
-              "links": [
-                {
-                  "text": "Muninn",
-                  "type": "internal",
-                  "page": "Huginn and Muninn"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Bell 47G",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bell 47G"
-                }
-              ]
-            },
-            "From": {
-              "text": "1973",
-              "number": 1973
-            },
-            "To": {
-              "text": "1980",
-              "number": 1980
-            },
-            "Notes": {
-              "text": "Bought used from the Icelandic Defence Force. Suffered from frequent breakdowns. Out of service by 1978 and sold around 1980.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Icelandic Defence Force"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GRO (I)"
-            },
-            "Name": {
-              "text": "Gróa",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gróa"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Hughes 500C Defender",
-              "links": [
-                {
-                  "text": "Hughes 500C Defender",
-                  "type": "internal",
-                  "page": "MD Helicopters MD 500"
-                }
-              ]
-            },
-            "From": {
-              "text": "1976",
-              "number": 1976
-            },
-            "To": {
-              "text": "1980",
-              "number": 1980
-            },
-            "Notes": {
-              "text": "On 17 November 1980 it collided with a power line at Búrfell power plant, crashing 50 meters from the plant's mess hall.",
-              "links": [
-                {
-                  "text": "power line",
-                  "type": "internal",
-                  "page": "Overhead power line"
-                },
-                {
-                  "text": "Búrfell power plant",
-                  "type": "internal",
-                  "page": "Búrfell",
-                  "anchor": "Búrfellsvirkjun"
-                },
-                {
-                  "text": "mess hall",
-                  "type": "internal",
-                  "page": "mess hall"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SYN (I)"
-            },
-            "Name": {
-              "text": "Sýn",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sýn"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Fokker F27 Friendship 200",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fokker F27 Friendship 200"
-                }
-              ]
-            },
-            "From": {
-              "text": "1976",
-              "number": 1976
-            },
-            "To": {
-              "text": "2009",
-              "number": 2009
-            },
-            "Notes": {
-              "text": "Bought new in 1976 and used until 2009 for search and maritime surveillance. As of 2021, it is preserved at the Icelandic Aviation Museum."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-RAN (II)",
-              "links": [
-                {
-                  "text": "TF-RAN (II)",
-                  "type": "internal",
-                  "page": "TF-RÁN (II)"
-                }
-              ]
-            },
-            "Name": {
-              "text": "Rán",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rán"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Sikorsky S-76 Spirit",
-              "links": [
-                {
-                  "text": "Sikorsky S-76 Spirit",
-                  "type": "internal",
-                  "page": "Sikorsky S-76"
-                }
-              ]
-            },
-            "From": {
-              "text": "1980",
-              "number": 1980
-            },
-            "To": {
-              "text": "1983",
-              "number": 1983
-            },
-            "Notes": {
-              "text": "Crashed in Jökulfirðir in November 1983, killing its four man crew.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jökulfirðir"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GRO (II)"
-            },
-            "Name": {
-              "text": "Gróa",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gróa"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Hughes 500C Defender",
-              "links": [
-                {
-                  "text": "Hughes 500C Defender",
-                  "type": "internal",
-                  "page": "MD Helicopters MD 500"
-                }
-              ]
-            },
-            "From": {
-              "text": "1981",
-              "number": 1981
-            },
-            "To": {
-              "text": "1986",
-              "number": 1986
-            },
-            "Notes": {
-              "text": "Arrived in October 1981. Bought as a replacement for TF-GRO (I). In August 1985, its engine was damaged after a drunken man broke in to the hangar where it was stored and tried to start it. Sold in 1986 to finance TF-GRO (III)."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SIF (II)"
-            },
-            "Name": {
-              "text": "Sif",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sif"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Aérospatiale SA 365N Dauphin II",
-              "links": [
-                {
-                  "text": "Aérospatiale SA 365N Dauphin II",
-                  "type": "internal",
-                  "page": "Aerospatiale SA 365 Dauphin"
-                }
-              ]
-            },
-            "From": {
-              "text": "1984",
-              "number": 1984
-            },
-            "To": {
-              "text": "1985",
-              "number": 1985
-            },
-            "Notes": {
-              "text": "Leased from Aérospatiale and operated from 1984 to 1985."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SIF (III)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "TF-SIF (III)"
-                }
-              ]
-            },
-            "Name": {
-              "text": "Sif",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sif"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Aérospatiale SA 365N Dauphin II",
-              "links": [
-                {
-                  "text": "Aérospatiale SA 365N Dauphin II",
-                  "type": "internal",
-                  "page": "Aerospatiale SA 365 Dauphin"
-                }
-              ]
-            },
-            "From": {
-              "text": "1985",
-              "number": 1985
-            },
-            "To": {
-              "text": "2007",
-              "number": 2007
-            },
-            "Notes": {
-              "text": "Bought new in 1985 and was involved in several high profile rescue missions during its 22-year career. It was damaged beyond repair after an emergency sea landing in 2007 and later donated to the Icelandic Aviation Museum.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Icelandic Aviation Museum"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GRO (III)"
-            },
-            "Name": {
-              "text": "Gróa",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gróa"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Eurocopter AS 350B Ecureuil",
-              "links": [
-                {
-                  "text": "Eurocopter AS 350B Ecureuil",
-                  "type": "internal",
-                  "page": "Eurocopter AS350"
-                }
-              ]
-            },
-            "From": {
-              "text": "1986",
-              "number": 1986
-            },
-            "To": {
-              "text": "1999",
-              "number": 1999
-            },
-            "Notes": {
-              "text": "Bought in January 1986 and arrived in April the same year."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-LÍF (I)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "TF-LÍF"
-                }
-              ]
-            },
-            "Name": {
-              "text": "Líf",
-              "links": [
-                {
-                  "text": "Líf",
-                  "type": "internal",
-                  "page": "Líf and Lífþrasir"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Aérospatiale AS-332L1 Super Puma",
-              "links": [
-                {
-                  "text": "Aérospatiale AS-332L1 Super Puma",
-                  "type": "internal",
-                  "page": "Aerospatiale Super Puma"
-                }
-              ]
-            },
-            "From": {
-              "text": "1995",
-              "number": 1995
-            },
-            "To": {
-              "text": "Present"
-            },
-            "Notes": {
-              "text": "Used for maritime surveillance and search and rescue operations. During a six-day period in 1997, rescued 39 sailors in three separate incidents. Scheduled for sale as of 2020."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-EIR (II)"
-            },
-            "Name": {
-              "text": "Eir",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eir"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Aérospatiale SA 365N Dauphin II",
-              "links": [
-                {
-                  "text": "Aérospatiale SA 365N Dauphin II",
-                  "type": "internal",
-                  "page": "Aerospatiale SA 365 Dauphin"
-                }
-              ]
-            },
-            "From": {
-              "text": "2007",
-              "number": 2007
-            },
-            "To": {
-              "text": "2010",
-              "number": 2010
-            },
-            "Notes": {
-              "text": "Leased from 2007 to 2010 from CHC Helikopter Service. Suffered from frequent breakdowns."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GNA (II)"
-            },
-            "Name": {
-              "text": "Gná",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gná"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Aérospatiale AS-332L1 Super Puma",
-              "links": [
-                {
-                  "text": "Aérospatiale AS-332L1 Super Puma",
-                  "type": "internal",
-                  "page": "Aerospatiale Super Puma"
-                }
-              ]
-            },
-            "From": {
-              "text": "2007",
-              "number": 2007
-            },
-            "To": {
-              "text": "2019",
-              "number": 2019
-            },
-            "Notes": {
-              "text": "Leased from 2007 until early 2019."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SIF (IV)"
-            },
-            "Name": {
-              "text": "Sif",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sif"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Bombardier DHC-8-Q314",
-              "links": [
-                {
-                  "text": "Bombardier DHC-8-Q314",
                   "type": "internal",
                   "page": "Bombardier Dash 8"
                 }
               ]
             },
-            "From": {
-              "text": "2009",
-              "number": 2009
-            },
-            "To": {
-              "text": "Present"
-            },
-            "Notes": {
-              "text": "Ordered in May 2007 and arrived in July 2009. Used for maritime surveillance and replaced TF-SYN (I). Due to budget cuts following the 2008 Icelandic financial collapse, TF-SIF was frequently leased to Frontex to fly border control missions.",
-              "links": [
-                {
-                  "text": "2008 Icelandic financial collapse",
-                  "type": "internal",
-                  "page": "2008–2011 Icelandic financial crisis"
-                },
-                {
-                  "type": "internal",
-                  "page": "Frontex"
-                }
-              ]
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-SYN (II)"
-            },
-            "Name": {
-              "text": "Sýn",
+            "Origin": {
+              "text": "Canada",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Sýn"
+                  "page": "Canada"
                 }
               ]
             },
             "Type": {
-              "text": "Aérospatiale AS-332L1 Super Puma",
+              "text": "maritime patrol",
               "links": [
                 {
-                  "text": "Aérospatiale AS-332L1 Super Puma",
+                  "text": "maritime patrol",
                   "type": "internal",
-                  "page": "Aerospatiale Super Puma"
+                  "page": "Maritime patrol aircraft"
                 }
               ]
             },
-            "From": {
-              "text": "2012",
-              "number": 2012
+            "Variant": {
+              "text": "Q314",
+              "links": [
+                {
+                  "text": "Q314",
+                  "type": "internal",
+                  "page": "Bombardier Dash 8",
+                  "anchor": "Variants"
+                }
+              ]
             },
-            "To": {
-              "text": "2019",
-              "number": 2019
+            "In service": {
+              "text": "1",
+              "number": 1
             },
             "Notes": {
-              "text": "First leased for 12-months and arrived in February 2012. Replaced in 2019 by TF-GRÓ (IV)."
+              "text": ""
             }
           },
           {
-            "Callsign": {
-              "text": "TF-EIR (III)"
-            },
-            "Name": {
-              "text": "Eir",
+            "Aircraft": {
+              "text": "Airbus Helicopters H225",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Eir"
+                  "page": "Airbus Helicopters H225"
+                }
+              ]
+            },
+            "Origin": {
+              "text": "France",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "France"
                 }
               ]
             },
             "Type": {
-              "text": "Eurocopter EC225 Super Puma",
+              "text": "SAR / utility",
               "links": [
                 {
+                  "text": "SAR",
                   "type": "internal",
-                  "page": "Eurocopter EC225 Super Puma"
+                  "page": "Search and rescue"
                 }
               ]
             },
-            "From": {
-              "text": "2019",
-              "number": 2019
+            "Variant": {
+              "text": "EC225 SAR",
+              "links": [
+                {
+                  "text": "EC225 SAR",
+                  "type": "internal",
+                  "page": "Airbus Helicopters H225",
+                  "anchor": "Variants"
+                }
+              ]
             },
-            "To": {
-              "text": "Present"
+            "In service": {
+              "text": "3",
+              "number": 3
             },
             "Notes": {
-              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in March 2019 and replaced TF-GNÁ."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GRO (IV)"
-            },
-            "Name": {
-              "text": "Gróa",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gróa"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Eurocopter EC225 Super Puma",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eurocopter EC225 Super Puma"
-                }
-              ]
-            },
-            "From": {
-              "text": "2019",
-              "number": 2019
-            },
-            "To": {
-              "text": "Present"
-            },
-            "Notes": {
-              "text": "Arrived in July 2019 on long-term lease from Knut Axel Ugland Holding of Norway and replaced TF-SÝN. During the November 2020 Coast Guards mechanics strike crisis, TF-GRO was the only operational rescue helicopter in the country."
-            }
-          },
-          {
-            "Callsign": {
-              "text": "TF-GNA (III)"
-            },
-            "Name": {
-              "text": "Gná",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Gná"
-                }
-              ]
-            },
-            "Type": {
-              "text": "Eurocopter EC225 Super Puma",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eurocopter EC225 Super Puma"
-                }
-              ]
-            },
-            "From": {
-              "text": "2021",
-              "number": 2021
-            },
-            "To": {
-              "text": "Present"
-            },
-            "Notes": {
-              "text": "On long-term lease from Knut Axel Ugland Holding of Norway. Arrived in May 2021."
+              "text": "On long-term lease from Norway"
             }
           }
         ]
       ],
+      "templates": [
+        {
+          "list": [
+            "List of aircraft of the Icelandic Coast Guard"
+          ],
+          "template": "main"
+        }
+      ],
       "references": [
-        {
-          "title": "Catalina flugbátar á íslandi",
-          "url": "http://timarit.is/view_page_init.jsp?pageId=1830466",
-          "accessdate": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "14 May 1995",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Jónas Guðmundsson",
-          "title": "Þegar hún birtist undan svörtu éli...",
-          "url": "https://timarit.is/page/4430241",
-          "access-date": "15 June 2022",
-          "work": "Vikan",
-          "date": "2 October 1958",
-          "pages": "6-7",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Skymaster-vél og fullkomnari tæki",
-          "url": "https://timarit.is/page/2362076",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "16 August 1962",
-          "pages": "16, 5",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Fjögurra hreyfla SIF tekur senn við gæzlunni af Rán",
-          "url": "https://timarit.is/page/2796774",
-          "access-date": "15 June 2022",
-          "work": "Þjóðviljinn",
-          "date": "16 August 1962",
-          "page": "3",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Fyrsta þyrlan keypt til landsins 1965",
-          "url": "https://timarit.is/page/3485972",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "19 November 1980",
-          "page": "15",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Flugleiðir kaupa Gæslu-Fokkerinn TF-SYR á 675 millj. kr.",
-          "url": "https://timarit.is/page/1534955",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "10 December 1980",
-          "page": "32",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Sikorsky entist í 3 ár",
-          "url": "https://timarit.is/page/3485972",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "19 November 1980",
-          "page": "15",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Litla þyrlan ónýt",
-          "url": "https://timarit.is/page/2874586",
-          "access-date": "5 May 2021",
-          "work": "Þjóðviljinn",
-          "date": "18 November 1980",
-          "page": "1",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF Gró lifði í 4 ár",
-          "url": "https://timarit.is/page/3485971",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "19 November 1980",
-          "page": "14",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Björn Jóhann Björnsson",
-          "title": "Þyrlurnar hafa bjargað þúsundum",
-          "url": "https://www.mbl.is/greinasafn/grein/1551541/",
-          "access-date": "18 January 2022",
-          "work": "Morgunblaðið",
-          "date": "30 April 2015",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Brot úr þyrluspaðanum þeyttist þvert í gegn um matsalinn",
-          "url": "https://timarit.is/page/1533942",
-          "access-date": "18 January 2022",
-          "work": "Morgunblaðið",
-          "date": "18 November 1980",
-          "pages": "23, 40",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF-SYN Fokker F-27-200 Friendship",
-          "url": "https://www.flugsafn.is/is/safngripir/tf-syn",
-          "publisher": "Icelandic Aviation Museum",
-          "access-date": "5 May 2021",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ný þyrla komin til Landhelgisgæzlunnar",
-          "url": "https://timarit.is/page/1547097",
-          "work": "Morgunblaðið",
-          "date": "16 October 1981",
-          "page": "2",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Skemmdir unnar á þyrlu Gæzlunnar",
-          "url": "https://timarit.is/page/1617766",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "27 August 1985",
-          "page": "52",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Þyrlunni skilað til Frakklands",
-          "url": "https://timarit.is/page/1616162",
-          "access-date": "21 March 2021",
-          "work": "Morgunblaðið",
-          "date": "28 July 1985",
-          "page": "56",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Íkorni í gæsluflotann",
-          "url": "https://timarit.is/page/4032876",
-          "access-date": "5 May 2021",
-          "work": "Tíminn",
-          "date": "5 April 1986",
-          "page": "20",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Frækileg björgun á reginhafi",
-          "url": "https://timarit.is/page/6785534",
-          "access-date": "22 March 2021",
-          "work": "Morgunblaðið",
-          "date": "29 September 2016",
-          "page": "34",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Elín Margrét Böðvarsdóttir",
-          "title": "Þyrlukaupum frestað og TF-LÍF verður seld",
-          "url": "https://www.visir.is/g/2020984122d",
-          "access-date": "5 May 2021",
-          "work": "Vísir.is",
-          "date": "5 May 2020",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF-EIR skilað til leigusala",
-          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/1667",
-          "access-date": "5 May 2021",
-          "work": "Icelandic Coast Guard",
-          "date": "30 June 2010",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Ný björgunarþyrla",
-          "url": "https://timarit.is/page/4162887",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "3 June 2007",
-          "page": "2",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Fyrsta björgunarflug TF-GNÁ tókst mjög vel",
-          "url": "https://timarit.is/page/3968086",
-          "access-date": "5 May 2021",
-          "work": "Fréttablaðið",
-          "date": "4 July 2007",
-          "page": "8",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "title": "Smíði gæsluvélarinnar gengið ævintýralega vel",
           "url": "https://www.visir.is/g/2009843017833/smidi-gaesluvelarinnar-gengid-aevintyralega-vel",
-          "access-date": "15 June 2022",
+          "access-date": "30 June 2022",
           "work": "Vísir.is",
           "date": "3 April 2009",
           "language": "Icelandic",
@@ -3456,268 +2755,14 @@
           "type": "news"
         },
         {
-          "title": "Nýr verndarengill landhelginnar kominn heim",
-          "url": "https://timarit.is/page/5256180",
-          "access-date": "15 June 2022",
-          "work": "Morgunblaðið",
-          "date": "2 July 2009",
-          "page": "1",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Guðni Einarsson",
-          "author2": "Halldór Armand Ásgeirsson",
-          "title": "Þessi vél skiptir sköpum",
-          "url": "https://timarit.is/page/5256185",
-          "access-date": "15 June 2022",
-          "work": "Morgunblaðið",
-          "date": "2 July 2009",
-          "page": "6",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF-SIF komin til landsins",
-          "url": "https://www.mbl.is/frettir/innlent/2009/07/01/tf_sif_komin_til_landsins/",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "1 July 2009",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Andri Karl",
-          "title": "Fundu ekki kaupanda",
-          "url": "https://timarit.is/page/5264423",
-          "access-date": "15 June 2022",
-          "work": "Morgunblaðið",
-          "date": "10 October 2009",
-          "page": "6",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Sigtryggur Sigtryggsson",
-          "title": "TF-SIF erlendis í nærri þúsund daga",
-          "url": "https://timarit.is/page/6964563",
-          "access-date": "15 June 2022",
-          "work": "Morgunblaðið",
-          "date": "13 January 2018",
-          "page": "28",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Hólmfríður Gísladóttir",
-          "title": "Gert við leiguþyrluna í Færeyjum",
-          "url": "https://timarit.is/page/6010696",
-          "access-date": "13 June 2022",
-          "work": "Morgunblaðið",
-          "date": "3 February 2012",
-          "page": "15",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Loftför - TF-EIR",
-          "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/nr/1033",
+          "title": "Loftför",
+          "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/",
+          "website": "lhg.is",
           "publisher": "Icelandic Coast Guard",
-          "access-date": "5 May 2021",
+          "access-date": "30 June 2022",
           "language": "Icelandic",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "author1": "Erla María Markúsdóttir",
-          "title": "TF-EIR komin til landsins",
-          "url": "https://www.mbl.is/frettir/innlent/2019/03/16/tf_eir_komin_til_landsins/",
-          "access-date": "13 June 2022",
-          "work": "Morgunblaðið",
-          "date": "16 March 2019",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Loftför - TF-GRO",
-          "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/nr/973",
-          "publisher": "Icelandic Coast Guard",
-          "access-date": "5 May 2021",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author1": "Garðar Örn Úlfarsson",
-          "title": "Björgunarþyrluleysi er nú sagt óumflýjanlegt",
-          "url": "https://timarit.is/page/7312181",
-          "access-date": "15 June 2022",
-          "work": "Fréttablaðið",
-          "date": "25 November 2020",
-          "page": "6",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Eina útkallshæfa þyrlan ekkert kölluð út um helgina",
-          "url": "https://www.mbl.is/frettir/innlent/2020/11/09/eina_utkallshaefa_thyrlan_ekkert_kollud_ut_um_helgi/",
-          "access-date": "15 June 2022",
-          "work": "Morgunblaðið",
-          "date": "9 November 2020",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF-GNA kemur í þjónustu Landhelgisgæslunnar um áramót",
-          "url": "https://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/tf-gna-kemur-i-thjonustu-landhelgisgaeslunnar-um-aramot",
-          "access-date": "5 May 2021",
-          "work": "Icelandic Coast Guard",
-          "date": "3 July 2020",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Catalina",
-          "url": "http://timarit.is/view_page_init.jsp?issId=304742&pageId=4627266",
-          "accessdate": "5 May 2021",
-          "work": "Æskan",
-          "date": "1 February 1972",
-          "language": "Icelandic",
-          "via": "Tímarit.is}} {{open access|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Landhelgisgæslan á flugi",
-          "url": "https://www.lhg.is/um-okkur/sagan/flugdeildin",
-          "publisher": "Icelandic Coast Guard",
-          "access-date": "5 May 2021",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Litlu þyrlurnar",
-          "url": "https://timarit.is/page/3485972",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "19 November 1980",
-          "page": "15",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Þessar þyrlur hafa reynzt afleitlega",
-          "url": "https://timarit.is/page/3882441",
-          "access-date": "5 May 2021",
-          "work": "Tíminn",
-          "date": "15 February 1977",
-          "page": "20",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Tvær af þremur þyrlum ónýtar",
-          "url": "https://timarit.is/page/3376341",
-          "access-date": "5 May 2021",
-          "work": "Vísir",
-          "date": "16 August 1978",
-          "page": "24",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Minnast áhafnar þyrlunnar TF-RAN sem fórst fyrir þrjátíu árum",
-          "url": "http://www.lhg.is/frettir-og-fjolmidlar/frettasafn/frettayfirlit/nr/2670",
-          "accessdate": "23 March 2021",
-          "work": "Landhelgisgæsla Íslands",
-          "date": "8 November 2013",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Kaupir nýja þyrlu af gerðinni Ecureuil",
-          "url": "https://timarit.is/page/1625998",
-          "access-date": "5 May 2021",
-          "work": "Morgunblaðið",
-          "date": "11 January 1986",
-          "page": "4",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Sigtryggur Ari Jóhannsson",
-          "title": "Fyllist lotningu við hvininn frá þyrlunni",
-          "url": "https://timarit.is/page/5910781",
-          "access-date": "21 March 2021",
-          "work": "Dagblaðið Vísir",
-          "date": "20 July 2007",
-          "pages": "1, 11–17",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Fjölmenni fagnaði LÍF",
-          "url": "https://timarit.is/page/1832389",
-          "access-date": "22 March 2021",
-          "work": "Morgunblaðið",
-          "date": "24 June 1995",
-          "page": "4",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "TF-GRÓ komin til landsins",
-          "url": "https://www.mbl.is/frettir/innlent/2019/07/06/tf_gro_komin_til_landsins/",
-          "access-date": "13 June 2022",
-          "work": "Morgunblaðið",
-          "date": "6 July 2019",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Jóhann K. Jóhannsson",
-          "title": "TF-EIR og TF-GRO koma í þjónustu Landhelgisgæslunnar",
-          "url": "https://www.visir.is/g/2018181219745/tf-eir-og-tf-gro-koma-i-thjonustu-landhelgisgaeslunnar",
-          "access-date": "15 June 2022",
-          "work": "Vísir.is",
-          "date": "11 December 2018",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Atli Ísleifsson",
-          "title": "TF-GNA komin til landsins",
-          "url": "https://www.visir.is/g/20212105385d/tf-gna-komin-til-landsins",
-          "access-date": "5 May 2021",
-          "work": "Vísir.is",
-          "date": "5 May 2021",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },

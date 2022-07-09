@@ -3534,7 +3534,14 @@
               ]
             },
             "Calibre": {
-              "text": "7.62mm"
+              "text": "30 Carbine",
+              "links": [
+                {
+                  "text": "30 Carbine",
+                  "type": "internal",
+                  "page": "30 Carbine"
+                }
+              ]
             },
             "Type": {
               "text": "Carbine",
@@ -3567,7 +3574,14 @@
               ]
             },
             "Calibre": {
-              "text": "7.62mm"
+              "text": "30 Carbine",
+              "links": [
+                {
+                  "text": "30 Carbine",
+                  "type": "internal",
+                  "page": "30 Carbine"
+                }
+              ]
             },
             "Type": {
               "text": "Carbine"

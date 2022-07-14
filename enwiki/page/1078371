@@ -2635,6 +2635,20 @@
     {
       "title": "Aircraft",
       "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Landhelgisgaeslan_Helicopter_Iceland_(cropped).jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Landhelgisgaeslan_Helicopter_Iceland_(cropped).jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Landhelgisgaeslan_Helicopter_Iceland_(cropped).jpg",
+          "caption": "A Eurocopter EC225 during Search and rescue demonstration",
+          "links": []
+        }
+      ],
       "tables": [
         [
           {
@@ -2657,25 +2671,17 @@
               ]
             },
             "Type": {
-              "text": "maritime patrol",
+              "text": "maritime patrol / SAR",
               "links": [
                 {
-                  "text": "maritime patrol",
+                  "text": "SAR",
                   "type": "internal",
-                  "page": "Maritime patrol aircraft"
+                  "page": "Search and rescue"
                 }
               ]
             },
             "Variant": {
-              "text": "Q314",
-              "links": [
-                {
-                  "text": "Q314",
-                  "type": "internal",
-                  "page": "Bombardier Dash 8",
-                  "anchor": "Variants"
-                }
-              ]
+              "text": ""
             },
             "In service": {
               "text": "1",
@@ -2687,11 +2693,12 @@
           },
           {
             "Aircraft": {
-              "text": "Airbus Helicopters H225",
+              "text": "Eurocopter EC225",
               "links": [
                 {
+                  "text": " Eurocopter EC225",
                   "type": "internal",
-                  "page": "Airbus Helicopters H225"
+                  "page": "Eurocopter EC225 Super Puma"
                 }
               ]
             },
@@ -2705,7 +2712,7 @@
               ]
             },
             "Type": {
-              "text": "SAR / utility",
+              "text": "utility / SAR",
               "links": [
                 {
                   "text": "SAR",
@@ -2715,22 +2722,14 @@
               ]
             },
             "Variant": {
-              "text": "EC225 SAR",
-              "links": [
-                {
-                  "text": "EC225 SAR",
-                  "type": "internal",
-                  "page": "Airbus Helicopters H225",
-                  "anchor": "Variants"
-                }
-              ]
+              "text": ""
             },
             "In service": {
               "text": "3",
               "number": 3
             },
             "Notes": {
-              "text": "On long-term lease from Norway"
+              "text": ""
             }
           }
         ]
@@ -2745,22 +2744,83 @@
       ],
       "references": [
         {
-          "title": "Smíði gæsluvélarinnar gengið ævintýralega vel",
-          "url": "https://www.visir.is/g/2009843017833/smidi-gaesluvelarinnar-gengid-aevintyralega-vel",
-          "access-date": "30 June 2022",
-          "work": "Vísir.is",
-          "date": "3 April 2009",
-          "language": "Icelandic",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Loftför",
           "url": "https://www.lhg.is/um-okkur/taekjakostur/loftfor/",
-          "website": "lhg.is",
-          "publisher": "Icelandic Coast Guard",
-          "access-date": "30 June 2022",
-          "language": "Icelandic",
+          "title": "Icelandic Coast Guard aircraft",
+          "publisher": "www.lhg.is",
+          "year": "2022",
+          "accessdate": "26 May 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Retired",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Previous notable aircraft operated consisted of the Consolidated PBY Catalina, Douglas C-54, Fokker F27, Bell 47J/G, MD 500C, Sikorsky S-62, Sikorsky S-76,  Eurocopter AS365,  Eurocopter AS350",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Consolidated PBY Catalina"
+                },
+                {
+                  "text": "Douglas C-54",
+                  "type": "internal",
+                  "page": "Douglas C-54 Skymaster"
+                },
+                {
+                  "text": " Fokker F27",
+                  "type": "internal",
+                  "page": "Fokker F27 Friendship"
+                },
+                {
+                  "text": "Bell 47J",
+                  "type": "internal",
+                  "page": "Bell 47J Ranger"
+                },
+                {
+                  "text": "G",
+                  "type": "internal",
+                  "page": "Bell 47"
+                },
+                {
+                  "text": "MD 500C",
+                  "type": "internal",
+                  "page": "MD Helicopters MD 500 "
+                },
+                {
+                  "type": "internal",
+                  "page": "Sikorsky S-62"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sikorsky S-76"
+                },
+                {
+                  "text": " Eurocopter AS365",
+                  "type": "internal",
+                  "page": "Eurocopter AS365 Dauphin"
+                },
+                {
+                  "text": " Eurocopter AS350",
+                  "type": "internal",
+                  "page": "Eurocopter AS350 Écureuil"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lhg.is/um-okkur/sagan/flugdeildin",
+          "title": "The Coast Guard is in flight",
+          "publisher": "www.lhg.is",
+          "accessdate": "26 May 2022",
           "template": "citation",
           "type": "web"
         }

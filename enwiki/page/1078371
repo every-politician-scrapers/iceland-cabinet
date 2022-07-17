@@ -696,8 +696,13 @@
               ]
             },
             {
-              "text": "In 2011 the Coast Guard received, built by the Asmar shipyard in Talcahuano, Chile.",
+              "text": "In 2011 the Coast Guard received ICGV Þór, built by the Asmar shipyard in Talcahuano, Chile.",
               "links": [
+                {
+                  "text": "ICGV ''Þór''",
+                  "type": "internal",
+                  "page": "ICGV Þór (2009)"
+                },
                 {
                   "type": "internal",
                   "page": "Talcahuano"
@@ -706,7 +711,12 @@
                   "type": "internal",
                   "page": "Chile"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
             }
           ]
         },
@@ -851,13 +861,6 @@
             "2022"
           ],
           "template": "as of"
-        },
-        {
-          "list": [
-            "ICGV",
-            "Þór"
-          ],
-          "template": "ship"
         },
         {
           "list": [
@@ -1489,7 +1492,7 @@
           "file": "File:2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/2_Arrival_of_Thor_-_Icelandic_Coast_Guard_2011-10-27_Reykjavik.jpg",
-          "caption": "The Chilean built patrol boat",
+          "caption": "The Chilean built ICGV Þór patrol boat",
           "links": []
         }
       ],
@@ -1530,7 +1533,19 @@
           },
           {
             "Vessel": {
-              "text": ""
+              "text": "ICGV Þór",
+              "links": [
+                {
+                  "text": "ICGV ''Þór''",
+                  "type": "internal",
+                  "page": "ICGV Þór (2009)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Þór"
+                ]
+              }
             },
             "Origin": {
               "text": "Chile",
@@ -1618,19 +1633,7 @@
       "templates": [
         {
           "list": [
-            "Þór"
-          ],
-          "template": "icgv"
-        },
-        {
-          "list": [
             "Freyja"
-          ],
-          "template": "icgv"
-        },
-        {
-          "list": [
-            "Þór"
           ],
           "template": "icgv"
         }
@@ -1675,6 +1678,13 @@
           {
             "Name": {
               "text": "ICGV Þór (I)",
+              "links": [
+                {
+                  "text": "ICGV ''Þór'' (I)",
+                  "type": "internal",
+                  "page": "ICGV Þór (1926)"
+                }
+              ],
               "formatting": {
                 "italic": [
                   "Þór"
@@ -2009,7 +2019,7 @@
                 {
                   "text": "ICGV ''Þór'' (III)",
                   "type": "internal",
-                  "page": "ICGV Þór (III)"
+                  "page": "ICGV Þór (1951)"
                 }
               ],
               "formatting": {

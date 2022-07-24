@@ -26,12 +26,21 @@
         {
           "sentences": [
             {
-              "text": "Katrín Jakobsdóttir (born 1 February 1976) is an Icelandic politician who is currently serving as the prime minister of Iceland since 2017.",
+              "text": "Katrín Jakobsdóttir (born 1 February 1976) is an Icelandic politician who has been serving as the prime minister of Iceland since 2017 and a member of the Althing for the Reykjavík North constituency since 2007.",
               "links": [
                 {
                   "text": "prime minister of Iceland",
                   "type": "internal",
                   "page": "prime minister of Iceland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Althing"
+                },
+                {
+                  "text": "Reykjavík North",
+                  "type": "internal",
+                  "page": "Reykjavík"
                 }
               ],
               "formatting": {
@@ -39,19 +48,6 @@
                   "Katrín Jakobsdóttir"
                 ]
               }
-            },
-            {
-              "text": "She has been a member of the Althing for the Reykjavík North constituency since 2007.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Althing"
-                },
-                {
-                  "type": "internal",
-                  "page": "Reykjavík"
-                }
-              ]
             }
           ]
         },
@@ -307,17 +303,12 @@
         {
           "sentences": [
             {
-              "text": "Katrín was born in Reykjavík.",
+              "text": "Born in Reykjavík, Katrín graduated from the University of Iceland in 1999 with a bachelor's degree, with a major in Icelandic and a minor in French.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Reykjavík"
-                }
-              ]
-            },
-            {
-              "text": "She graduated from the University of Iceland in 1999 with a bachelor's degree, with a major in Icelandic and a minor in French.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "University of Iceland"
@@ -325,7 +316,7 @@
                 {
                   "text": "bachelor's degree",
                   "type": "internal",
-                  "page": "bachelor degree"
+                  "page": "bachelor's degree"
                 },
                 {
                   "text": "major",
@@ -343,12 +334,15 @@
                   "page": "Minor (academic)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She received her M.A. in Icelandic literature from the same university in 2004, for a thesis on the work of popular Icelandic crime writer Arnaldur Indriðason.",
+              "text": "She went on to complete a Master of Arts degree in Icelandic literature at the University of Iceland in 2004, for a thesis on the work of popular Icelandic crime writer Arnaldur Indriðason.",
               "links": [
                 {
-                  "text": "M.A.",
                   "type": "internal",
                   "page": "Master of Arts"
                 },

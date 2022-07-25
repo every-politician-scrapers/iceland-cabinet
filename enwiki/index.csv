@@ -1,18 +1,18 @@
-pageid,title
-2810074,Willum Þór Þórsson
-13697250,Dagur B. Eggertsson
-14666338,Guðlaugur Þór Þórðarson
-21340347,Katrín Jakobsdóttir
-22572396,Bjarni Benediktsson (born 1970)
-31653997,Svandís Svavarsdóttir
-31700379,Birgir Ármannsson
-31988104,Ásgeir Jónsson
-35852069,Ásmundur Einar Daðason
-35852183,Sigurður Ingi Jóhannsson
-35852216,Jón Gunnarsson
-50510040,Guðni Th. Jóhannesson
-52840306,Lilja Dögg Alfreðsdóttir
-56856024,Áslaug Arna Sigurbjörnsdóttir
-56932664,Guðmundur Ingi Guðbrandsson
-56938523,Þórdís Kolbrún R. Gylfadóttir
-67584507,Georg Kr. Lárusson
+pageid,title,wikidata,label
+2810074,Willum Þór Þórsson,Q3481103,Willum Þór Þórsson
+13697250,Dagur B. Eggertsson,Q1151234,Dagur B. Eggertsson
+14666338,Guðlaugur Þór Þórðarson,Q1557735,Guðlaugur Þór Þórðarson
+21340347,Katrín Jakobsdóttir,Q467464,Katrín Jakobsdóttir
+22572396,Bjarni Benediktsson (born 1970),Q879376,Bjarni Benediktsson
+31653997,Svandís Svavarsdóttir,Q438056,Svandís Svavarsdóttir
+31700379,Birgir Ármannsson,Q865180,Birgir Ármannsson
+31988104,Ásgeir Jónsson,Q4804273,Asgeir Jonsson
+35852069,Ásmundur Einar Daðason,Q252565,Ásmundur Einar Daðason
+35852183,Sigurður Ingi Jóhannsson,Q201075,Sigurður Ingi Jóhannsson
+35852216,Jón Gunnarsson,Q1715048,Jón Gunnarsson
+50510040,Guðni Th. Jóhannesson,Q24045706,Guðni Jóhannesson
+52840306,Lilja Dögg Alfreðsdóttir,Q23753778,Lilja Dögg Alfreðsdóttir
+56856024,Áslaug Arna Sigurbjörnsdóttir,Q27988721,Áslaug Arna Sigurbjörnsdóttir
+56932664,Guðmundur Ingi Guðbrandsson,Q44216756,Guðmundur Ingi Guðbrandsson
+56938523,Þórdís Kolbrún R. Gylfadóttir,Q28734624,Þórdís Kolbrún R. Gylfadóttir
+67584507,Georg Kr. Lárusson,Q3101322,Georg Lárusson
